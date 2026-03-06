@@ -1784,11 +1784,6 @@ fundamentally different vocabulary. The five dimensions are that vocabulary.
 ---
 template:inverse 
 
-.center[
-<img src="./img/qr_lecturecreativecontrol.png" style="width:20%;">
-]
-
-
 # *The End*
 
 
