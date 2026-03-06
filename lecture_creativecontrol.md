@@ -44,7 +44,7 @@ No answers yet — only the questions. These are not questions about medium. The
 
 ---
 
-.center[<img src="./img/touchdesigner_01.gif" alt="touchdesigner_01" style="width:100%;">].imgref[[Image: [interactiveimmersive.io: Scaling Interactive Notch Content in TouchDesigner](https://interactiveimmersive.io/blog/touchdesigner-resources/scaling-interactive-notch-content-in-touchdesigner/)]]
+.center[<img src="./img/touchdesigner_01.gif" alt="touchdesigner_01" style="width:100%;">].imgref[[Image: [interactiveimmersive.io](https://interactiveimmersive.io/blog/touchdesigner-resources/scaling-interactive-notch-content-in-touchdesigner/)]]
 
 
 ???
@@ -82,32 +82,14 @@ The point: the questions still map. What changes is not the structure of creativ
 ---
 layout:false
 
-## Who am I?
+## Introduction
 
---
-
-* Master in Fine Art (MFA Dramatic Media)
-* Phd in Computer Science (Dr. rer. nat. Computer Graphic)
-
---
-
-<br />
-
-* Film University Babelsberg KONRAD WOLF, Potsdam, Germany
-* Professor for Image-based Media Technologies
-* MA Creative Technologies
+* [Lena Gieseke ⬀](https://www.lenagieseke.com/)
+* [Film University Babelsberg KONRAD WOLF ⬀](https://www.filmuniversitaet.de/), Potsdam, Germany
+* [MA Creative Technologies ⬀](https://www.filmuniversitaet.de/en/studies/study-programs/master-programs/creative-technologies) (Instagram: [ctech.filmuniversity ⬀](https://www.instagram.com/ctech.filmuniversity/))
 
 > Computer Science meets Creativity, Art & Film...
 
----
-.header[MA Creative Technologies]
-
-.center[<img src="./img/qr_filmunictech.png" alt="qr_filmunictech" style="width:45%;">]
-
----
-.header[MA Creative Technologies]
-
-.center[<img src="./img/qr_filmuniinsta.png" alt="qr_filmuniinsta" style="width:45%;">]
 
 ---
 template:inverse
@@ -296,31 +278,31 @@ making is notoriously difficult topic to address.
 
 ## HCI Research
 
-
 ???
-* Human Computer Interaction 
+
+* Human–Computer Interaction
 
 --
 
-.caps[Shneiderman, Ben]. **Creativity Support Tools: Accelerating Discovery and Innovation**. *Communications of the ACM* 50.12 (2007), 20–32
-
+.caps[Shneiderman, Ben]. **Creativity Support Tools: Accelerating Discovery and Innovation.** *Communications of the ACM* 50(12), 2007, 20–32.
 
 ???
-* The field of Creativity Support Tools (CSTs) has been central to HCI since Shneiderman's foundational 2007 paper. The ambition: design tools that accelerate discovery and lower the threshold for creative production. 
+
+* The field of Creativity Support Tools (CSTs) has been central to HCI since Shneiderman's foundational 2007 paper. The ambition: design tools that accelerate discovery and lower the threshold for creative production.
 
 --
 
 .small[
-* .caps[Frich, Jonas, Mose Biskjaer, Michael, and Dalsgaard, Peter]. **Twenty Years of Creativity Research in Human- Computer Interaction: Current State and Future Directions**. Proceedings of the 2018 Designing Interactive Systems Conference. ACM, 2018, 1235–1257
-* .caps[Frich, Jonas, Macdonald Vermeulen, Lindsay, Remy, Christian, et al.] **Mapping the Landscape of Creativity Support Tools in HCI**. Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems. ACM, 2019, 1–1
-* .caps[Remy, Christian, Macdonald Vermeulen, Lindsay, Frich, Jonas, et al.] **Evaluating Creativity Support Tools in HCI Research**. Proceedings of the 2020 ACM Designing Interactive Systems Conference. ACM, 2020, 457–47
+* .caps[Frich, Jonas, Mose Biskjaer, Michael, and Peter Dalsgaard]. **Twenty Years of Creativity Research in Human–Computer Interaction: Current State and Future Directions.** *Proceedings of the 2018 Designing Interactive Systems Conference (DIS)*. ACM, 2018, 1235–1257.
+
+* .caps[Frich, Jonas, Lindsay MacDonald Vermeulen, Christian Remy, et al.]. **Mapping the Landscape of Creativity Support Tools in HCI.** *Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems (CHI)*. ACM, 2019.
+
+* .caps[Remy, Christian, Lindsay MacDonald Vermeulen, Jonas Frich, et al.]. **Evaluating Creativity Support Tools in HCI Research.** *Proceedings of the 2020 ACM Designing Interactive Systems Conference (DIS)*. ACM, 2020, 457–470.
 ]
 
-
 ???
+
 * The challenge: CST research has historically conflated two distinct questions — whether a tool enables creative outcomes, and whether the tool itself is the source of creative agency.
-
-
 ---
 .header[Defining Creative Control]
 
@@ -353,7 +335,7 @@ The implication: we need evaluation on an algorithmic level — a vocabulary tha
 
 ## Creativity Support Index (CSI)
 
-.caps[Cherry, Erin and Latulipe, Celine]. **Quantifying the Creativity Support of Digital Tools Through the Creativity Support Index**. *ACM Transactions on Computer-Human Interaction* 21.4 (2014), 21:1– 21:25 
+.caps[Cherry, Erin and Celine Latulipe]. **Quantifying the Creativity Support of Digital Tools Through the Creativity Support Index.** *ACM Transactions on Computer–Human Interaction* 21(4), 2014, 21:1–21:25.
 
 --
 
@@ -383,9 +365,10 @@ Source: Cherry and Latulipe (2014).
 
 ## Theoretical Basis
 
-.caps[Weisberg, Robert]. **Creativity: Understanding Innovation in Problem Solving, Science, Invention, and the Arts**. *Wiley*, 2006  
+.caps[Weisberg, Robert]. **Creativity: Understanding Innovation in Problem Solving, Science, Invention, and the Arts.** Wiley, 2006.
 
-.caps[Boden, Margaret A.]. **Creativity and Art: Three Roads to Surprise**. Oxford University Press, 2010  
+.caps[Boden, Margaret A.]. **Creativity and Art: Three Roads to Surprise.** Oxford University Press, 2010.
+
 
 ---
 .header[Defining Creative Control]
@@ -411,7 +394,7 @@ Novelty
 
 ## Discussion Basis
 
-.caps[Gieseke, Lena, Paul Asente, Radomír Měch, Bedrich Benes, and Martin Fuchs]. **A Survey of Control Mechanisms for Creative Pattern Generation**. Computer Graphics Forum, vol. 40, no. 2, pp. 585–609. Eurographics STAR – State of the Art Report. Wiley, 2021.
+.caps[Gieseke, Lena, Paul Asente, Radomír Měch, Bedřich Beneš, and Martin Fuchs]. **A Survey of Control Mechanisms for Creative Pattern Generation.** *Computer Graphics Forum* 40(2), 2021, 585–609. Eurographics STAR – State of the Art Report. Wiley.
 
 <!-- * The general controllability necessary for navigating a design space
 
@@ -877,7 +860,10 @@ Parameter usually represent certain visual characteristics and their prominence.
 
 --
 
-* Often non-intuitive, representing abstract system internals rather than perceptual qualities
+* Often non-intuitive and abstract 
+
+???
+representing system internals rather than perceptual qualities
 
 --
     * Parameter space vs. design space
@@ -1166,7 +1152,7 @@ the past leaves no trace
 --
 
 * Stateful systems
-    * The system accumulates, remembers, responds to prior states
+    * It is possible to accumulate, remember, and responds to prior states
 
 --
 
@@ -1183,7 +1169,7 @@ the past leaves no trace
 
 ## History-Keeping
 
-The ability to return to, compare, and branch from prior states is itself a temporal control mechanism.
+The ability to return to, compare, and branch creation steps is itself a temporal control mechanism.
 
 
 ???
@@ -1191,7 +1177,7 @@ The ability to return to, compare, and branch from prior states is itself a temp
 
 --
 
-* Non-trivial engineering problems! 
+* Non-trivial engineering problem! 
 * Most creative coding environments underserve this...
 
 
@@ -1241,7 +1227,7 @@ Design for:
 
 ## When
 
-> The artist is "in conversation" with the system, and *when* defines the rhythm and density of that conversation.
+> Artist should be able to be "in conversation" with the system, and *when* defines the rhythm and density of that conversation.
 
 ???
 
@@ -1280,7 +1266,7 @@ Gieseke et al. (2021) systematically map HOW, WHAT, WHERE, and WHEN — correspo
 <br />
 *Generative Systems* as algorithm, mathematical functions or set of rules, designed to generate an output.
 
-.footnote[[Rumpf, T. 2025. Designing for Balance: Creative Intention and the Autonomy of Generative Systems | McCormack, J. 2017. Working with Generative Systems: An Artistic Perspective | Boden, M. and Edmonds, E. 2010. What Is Generative Art?]]
+.footnote[Rumpf, T. Designing for Balance: Creative Intention and the Autonomy of Generative Systems. Master Thesis, 2025.| McCormack, J. Working with Generative Systems: An Artistic Perspective. 2017. Boden, Margaret A. and Ernest Edmonds. What Is Generative Art? 2010.]
 
 --
 <br />
@@ -1312,7 +1298,7 @@ Systems can have **autonomy** and **agency** to a degree.
     * Impact on the creative outcome
     * The system shapes what the work becomes
 
-.footnote[[Rumpf, T. 2025. Designing for Balance: Creative Intention and the Autonomy of Generative Systems.]]
+.footnote[[Rumpf, T. Designing for Balance: Creative Intention and the Autonomy of Generative Systems. Master Thesis, 2025.]]
 
 ---
 .header[Control Characteristics | Who]
@@ -1343,7 +1329,7 @@ can shift authorship.
 > How can we both embrace and steer the "out-of-control-ness"?
   
 
-.footnote[[Rumpf, T. 2025. Designing for Balance: Creative Intention and the Autonomy of Generative Systems |  Memelink, M. 2023. Tracing Autonomy & Artistic Significance: An Alternative Framework for Analysing & Comparing Generative Art.]]
+.footnote[[Rumpf, T. Designing for Balance: Creative Intention and the Autonomy of Generative Systems. Master Thesis, 2025. | Memelink, M. Tracing Autonomy & Artistic Significance: An Alternative Framework for Analysing & Comparing Generative Art. 2023.]]
   
 --
   
@@ -1381,8 +1367,7 @@ both the outcome and the system are continuously evaluated and refined and even 
 
 <br />
   
-.caps[Hu, Xi, Yiwen Xing, Xudong Cai, Yihang Zhao, Michael Cook, Rita Borgo, and Timothy Neate]. **Designing Interactions with Generative AI for Art and Creativity: A Systematic Review and Taxonomy.** Proceedings of the 2025 ACM Designing Interactive Systems Conference, pp. 1126–1155. ACM, 2025.
-
+.caps[Hu, X., Y. Xing, X. Cai, Y. Zhao, M. Cook, R. Borgo, and T. Neate]. **Designing Interactions with Generative AI for Art and Creativity: A Systematic Review and Taxonomy.** *Proceedings of the 2025 ACM Designing Interactive Systems Conference (DIS)*. ACM, 2025, 1126–1155.
 
 ???
 The key insight: working with generative systems is not about ceding control — it is about distributing it.
@@ -1436,7 +1421,7 @@ that influence Co-Agency
 * Agent-based systems
     * Can produce behavior that exceeds the artist's predictive capacity
 
-.footnote[[Rumpf, T. 2025. Designing for Balance: Creative Intention and the Autonomy of Generative Systems.]]
+.footnote[[Rumpf, T. Designing for Balance: Creative Intention and the Autonomy of Generative Systems. Master Thesis, 2025.]]
 
 
 ---
